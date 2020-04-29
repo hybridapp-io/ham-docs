@@ -5,7 +5,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [What's New](#whats-new)
-- [Motications](#motications)
+- [Motivations](#motivations)
 - [Overview](#overview)
 - [Specifications](#specifications)
   - [core](#core)
@@ -21,7 +21,7 @@
 
 Hello, world!
 
-## Motications
+## Motivations
 
 Container platforms has become an integral part of modern IT landscape, but the majority of the systems in the world are still built on legacy technologies. Here we introduce a hybrid application model to improve the management efficiency of assets across various platforms (containers, virtual machines, cloud services, ...)
 
