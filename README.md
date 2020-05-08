@@ -5,7 +5,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [What's New](#whats-new)
-- [Motications](#motications)
+- [Motivations](#motications)
   - [Assumptions](#assumptions)
 - [Overview](#overview)
 - [Specifications](#specifications)
