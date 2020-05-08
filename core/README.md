@@ -17,7 +17,7 @@ The Application definition from Kubernetes Special Interest Group serves this pu
 
 **subscriptions.apps.open-cluster-management.io** is leveraged to point to resources outside kubernetes.
 
-[**deployers.core.hybridapp.io/v1alph1**](deployer.md) is intrdoduced to model various systems working with actual resources
+[**deployers.core.hybridapp.io/v1alph1**](deployer.md) is introduced to model various systems working with actual resources
 
 **placementrue.apps.open-cluster-management.io** is leveraged to describe which deployer is used in deploying resources.
 
