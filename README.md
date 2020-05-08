@@ -42,7 +42,7 @@ In order to model kubernetes resource in a kubernetes system without impacting t
 
 To deploy or discover resources for hybrid application **Deployer** are needed. There are many assets developed in community for that, our hybrid application model is integrating with them and to simplify the life of application dev/ops.
 
-The last but least resource in hybrid application model is **PlacementRule**, it defines which **Deployer**(s) the **Deployable** / **Subscription** is deploying to.  
+The last but not least resource in hybrid application model is **PlacementRule**, it defines which **Deployer**(s) the **Deployable** / **Subscription** is deploying to.  
 
 ![image](core/ham-core-Overview.png)
 
